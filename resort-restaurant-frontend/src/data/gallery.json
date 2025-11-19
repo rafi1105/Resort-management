@@ -1,0 +1,165 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "category": "Restaurant",
+      "title": "Main Dining Hall",
+      "imageURL": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "description": "Elegant dining space with panoramic views"
+    },
+    {
+      "id": 2,
+      "category": "Food",
+      "title": "Signature Dishes",
+      "imageURL": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=800",
+      "description": "Beautifully plated culinary creations"
+    },
+    {
+      "id": 3,
+      "category": "Resort",
+      "title": "Infinity Pool",
+      "imageURL": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800",
+      "description": "Luxurious poolside experience"
+    },
+    {
+      "id": 4,
+      "category": "Rooms",
+      "title": "Deluxe Room",
+      "imageURL": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=800",
+      "description": "Comfortable and well-appointed room"
+    },
+    {
+      "id": 19,
+      "category": "Rooms",
+      "title": "Standard Double Room",
+      "imageURL": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800",
+      "description": "Cozy double bed room with modern amenities"
+    },
+    {
+      "id": 20,
+      "category": "Rooms",
+      "title": "Twin Room",
+      "imageURL": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800",
+      "description": "Comfortable twin beds perfect for friends or family"
+    },
+    {
+      "id": 21,
+      "category": "Rooms",
+      "title": "Family Suite",
+      "imageURL": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=800",
+      "description": "Spacious suite ideal for families"
+    },
+    {
+      "id": 22,
+      "category": "Rooms",
+      "title": "Executive Room",
+      "imageURL": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800",
+      "description": "Premium room with work desk and city view"
+    },
+    {
+      "id": 5,
+      "category": "Food",
+      "title": "Fresh Seafood",
+      "imageURL": "https://images.unsplash.com/photo-1559737558-2f21b2c4b669?w=800",
+      "description": "Daily catch from local waters"
+    },
+    {
+      "id": 6,
+      "category": "Restaurant",
+      "title": "Private Dining Room",
+      "imageURL": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=800",
+      "description": "Intimate setting for special occasions"
+    },
+    {
+      "id": 7,
+      "category": "Events",
+      "title": "Wedding Reception",
+      "imageURL": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=800",
+      "description": "Unforgettable celebration venue"
+    },
+    {
+      "id": 8,
+      "category": "Food",
+      "title": "Dessert Selection",
+      "imageURL": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800",
+      "description": "Decadent sweet treats"
+    },
+    {
+      "id": 9,
+      "category": "Resort",
+      "title": "Tropical Gardens",
+      "imageURL": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "description": "Lush landscaped grounds"
+    },
+    {
+      "id": 10,
+      "category": "Restaurant",
+      "title": "Outdoor Terrace",
+      "imageURL": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800",
+      "description": "Al fresco dining under the stars"
+    },
+    {
+      "id": 11,
+      "category": "Food",
+      "title": "Breakfast Buffet",
+      "imageURL": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=800",
+      "description": "Start your day with variety"
+    },
+    {
+      "id": 12,
+      "category": "Rooms",
+      "title": "Superior Room",
+      "imageURL": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800",
+      "description": "Enhanced comfort with premium bedding"
+    },
+    {
+      "id": 23,
+      "category": "Rooms",
+      "title": "Budget Room",
+      "imageURL": "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800",
+      "description": "Affordable comfort for budget travelers"
+    },
+    {
+      "id": 13,
+      "category": "Resort",
+      "title": "Spa & Wellness",
+      "imageURL": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=800",
+      "description": "Relaxation and rejuvenation"
+    },
+    {
+      "id": 14,
+      "category": "Food",
+      "title": "Wine Cellar",
+      "imageURL": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800",
+      "description": "Curated selection of fine wines"
+    },
+    {
+      "id": 15,
+      "category": "Events",
+      "title": "Corporate Dinner",
+      "imageURL": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800",
+      "description": "Professional event hosting"
+    },
+    {
+      "id": 16,
+      "category": "Restaurant",
+      "title": "Bar Lounge",
+      "imageURL": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800",
+      "description": "Signature cocktails and ambiance"
+    },
+    {
+      "id": 17,
+      "category": "Food",
+      "title": "Chef at Work",
+      "imageURL": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=800",
+      "description": "Culinary artistry in action"
+    },
+    {
+      "id": 18,
+      "category": "Resort",
+      "title": "Sunset View",
+      "imageURL": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "description": "Spectacular evening panoramas"
+    }
+  ]
+}

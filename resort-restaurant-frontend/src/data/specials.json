@@ -1,0 +1,64 @@
+{
+  "specials": [
+    {
+      "id": 1,
+      "name": "Chef's Tasting Menu",
+      "shortDescription": "7-course culinary journey featuring seasonal ingredients",
+      "fullDescription": "Experience our chef's creativity with a carefully curated 7-course menu that changes weekly based on the freshest seasonal ingredients. Each dish is paired with sommelier-selected wines.",
+      "price": 145.00,
+      "imageURL": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800",
+      "availableDays": ["Friday", "Saturday"],
+      "isPopular": true
+    },
+    {
+      "id": 2,
+      "name": "Surf & Turf Extravaganza",
+      "shortDescription": "Wagyu beef paired with fresh lobster tail",
+      "fullDescription": "The ultimate indulgence combining 8oz Japanese wagyu ribeye with a whole butter-poached lobster tail, served with truffle fries and seasonal vegetables.",
+      "price": 120.00,
+      "imageURL": "https://images.unsplash.com/photo-1544025162-d76694265947?w=800",
+      "availableDays": ["All Week"],
+      "isPopular": true
+    },
+    {
+      "id": 3,
+      "name": "Mediterranean Sunset Platter",
+      "shortDescription": "Fresh seafood selection for two",
+      "fullDescription": "A generous platter featuring grilled octopus, garlic prawns, mussels marinara, calamari, and two whole grilled fish, served with lemon herb rice.",
+      "price": 98.00,
+      "imageURL": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800",
+      "availableDays": ["All Week"],
+      "isPopular": false
+    },
+    {
+      "id": 4,
+      "name": "Sunday Brunch Buffet",
+      "shortDescription": "All-you-can-eat luxury brunch experience",
+      "fullDescription": "Indulge in our lavish buffet featuring fresh pastries, made-to-order omelets, carving stations, seafood bar, salads, and decadent desserts. Includes unlimited mimosas and fresh juices.",
+      "price": 75.00,
+      "imageURL": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=800",
+      "availableDays": ["Sunday"],
+      "isPopular": true
+    },
+    {
+      "id": 5,
+      "name": "Romantic Dinner for Two",
+      "shortDescription": "Three-course intimate dining experience",
+      "fullDescription": "Perfect for special occasions. Includes appetizer platter, choice of two main courses, shared dessert, and a complimentary bottle of champagne. Candlelit table with rose petals.",
+      "price": 185.00,
+      "imageURL": "https://images.unsplash.com/photo-1551218808-94e220e084d2?w=800",
+      "availableDays": ["All Week"],
+      "isPopular": true
+    },
+    {
+      "id": 6,
+      "name": "Vegan Garden Feast",
+      "shortDescription": "Plant-based five-course menu",
+      "fullDescription": "A celebration of vegetables and plant-based cuisine. Each course showcases the versatility and flavor of seasonal produce, crafted into elegant fine dining dishes.",
+      "price": 68.00,
+      "imageURL": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800",
+      "availableDays": ["Monday", "Wednesday", "Friday"],
+      "isPopular": false
+    }
+  ]
+}

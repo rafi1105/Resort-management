@@ -1,0 +1,124 @@
+{
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Mitchell",
+      "location": "New York, USA",
+      "rating": 5,
+      "comment": "An absolutely unforgettable dining experience! The ambiance, service, and food quality exceeded all expectations. The chef's tasting menu was a culinary masterpiece.",
+      "avatar": "https://randomuser.me/api/portraits/women/1.jpg",
+      "date": "2024-11-10",
+      "verified": true
+    },
+    {
+      "id": 2,
+      "name": "James Chen",
+      "location": "Singapore",
+      "rating": 5,
+      "comment": "Best resort restaurant I've ever visited. The seafood platter was incredibly fresh, and the wine pairing was perfect. Will definitely return on our next trip!",
+      "avatar": "https://randomuser.me/api/portraits/men/2.jpg",
+      "date": "2024-11-08",
+      "verified": true
+    },
+    {
+      "id": 3,
+      "name": "Emily Rodriguez",
+      "location": "Barcelona, Spain",
+      "rating": 5,
+      "comment": "The romantic dinner package made our anniversary truly special. The staff went above and beyond to make the evening magical. Highly recommend!",
+      "avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+      "date": "2024-11-05",
+      "verified": true
+    },
+    {
+      "id": 4,
+      "name": "Michael Thompson",
+      "location": "London, UK",
+      "rating": 4,
+      "comment": "Exceptional food and stunning views. The wagyu beef was cooked to perfection. Only minor point - service was a bit slow during peak hours, but overall fantastic experience.",
+      "avatar": "https://randomuser.me/api/portraits/men/4.jpg",
+      "date": "2024-11-02",
+      "verified": true
+    },
+    {
+      "id": 5,
+      "name": "Olivia Anderson",
+      "location": "Sydney, Australia",
+      "rating": 5,
+      "comment": "The Sunday brunch buffet is worth every penny! Such an incredible variety of dishes, all beautifully presented. The champagne was flowing and the atmosphere was perfect.",
+      "avatar": "https://randomuser.me/api/portraits/women/5.jpg",
+      "date": "2024-10-28",
+      "verified": true
+    },
+    {
+      "id": 6,
+      "name": "David Kim",
+      "location": "Seoul, South Korea",
+      "rating": 5,
+      "comment": "As a vegan, I was thrilled with the plant-based menu options. The chef created such innovative and delicious dishes. Finally, a luxury restaurant that caters to all diets!",
+      "avatar": "https://randomuser.me/api/portraits/men/6.jpg",
+      "date": "2024-10-25",
+      "verified": true
+    },
+    {
+      "id": 7,
+      "name": "Isabella Martinez",
+      "location": "Miami, USA",
+      "rating": 5,
+      "comment": "Celebrated my birthday here and it was phenomenal! The staff surprised me with a custom dessert and the entire team sang. Such attention to detail and genuine hospitality.",
+      "avatar": "https://randomuser.me/api/portraits/women/7.jpg",
+      "date": "2024-10-20",
+      "verified": true
+    },
+    {
+      "id": 8,
+      "name": "Alexander Petrov",
+      "location": "Moscow, Russia",
+      "rating": 5,
+      "comment": "The wine cellar tour and pairing dinner was exceptional. Our sommelier was incredibly knowledgeable and the selections were outstanding. A must-try for wine enthusiasts!",
+      "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+      "date": "2024-10-15",
+      "verified": true
+    },
+    {
+      "id": 9,
+      "name": "Sophie Laurent",
+      "location": "Paris, France",
+      "rating": 4,
+      "comment": "Très magnifique! The French-inspired dishes were authentic and delicious. Beautiful presentation and elegant atmosphere. A little pricey, but quality justifies the cost.",
+      "avatar": "https://randomuser.me/api/portraits/women/9.jpg",
+      "date": "2024-10-10",
+      "verified": true
+    },
+    {
+      "id": 10,
+      "name": "William O'Brien",
+      "location": "Dublin, Ireland",
+      "rating": 5,
+      "comment": "Hands down the best lobster I've ever had! The thermidor sauce was divine. The resort itself is gorgeous, but the restaurant is the real crown jewel.",
+      "avatar": "https://randomuser.me/api/portraits/men/10.jpg",
+      "date": "2024-10-05",
+      "verified": true
+    },
+    {
+      "id": 11,
+      "name": "Amelia Wang",
+      "location": "Hong Kong",
+      "rating": 5,
+      "comment": "Impeccable service from start to finish. The staff remembered our preferences from our previous visit. The tasting menu changes seasonally and never disappoints!",
+      "avatar": "https://randomuser.me/api/portraits/women/11.jpg",
+      "date": "2024-09-28",
+      "verified": true
+    },
+    {
+      "id": 12,
+      "name": "Lucas Silva",
+      "location": "São Paulo, Brazil",
+      "rating": 5,
+      "comment": "The outdoor terrace dining under the stars was magical. Perfect blend of luxury and comfort. The live music added to the wonderful atmosphere. Five stars!",
+      "avatar": "https://randomuser.me/api/portraits/men/12.jpg",
+      "date": "2024-09-22",
+      "verified": true
+    }
+  ]
+}
