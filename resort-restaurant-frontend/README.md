@@ -6,31 +6,7 @@ A complete, modern, mobile-responsive React frontend for Success Inn, a 3-star h
 
 **[View Live Site](https://success-inn-resort.netlify.app/)**
 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](./public/home-page.png)
-
-### About Page
-![About Page](./public/about-page.png)
-
-### Menu Page
-![Menu Page](./public/menu-page.png)
-
-### Specials Page
-![Specials Page](./public/specials-page.png)
-
-### Gallery Page
-![Gallery Page](./public/gallery-page.png)
-
-### Reservation Page
-![Reservation Page](./public/reservation-page.png)
-
-### Contact Page
-![Contact Page](./public/contact-page.png)
-
-### Reviews Page
-![Reviews Page](./public/reviews-page.png)
+![Success Inn Resort](./public/screenshot.png)
 
 ## 🌟 Features
 
