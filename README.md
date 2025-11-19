@@ -18,10 +18,10 @@ A complete, modern, mobile-responsive React frontend for Success Inn, a 3-star h
 ![Menu Page](./public/menu-resort.png)
 
 ### Specials Page
-![Specials Page](./public/specials-resort.png)
+![Specials Page](./public/special-resort.png)
 
 ### Gallery Page
-![Gallery Page](./public/gallery-page.png)
+![Gallery Page](./public/gallery-resort.png)
 
 ### Reservation Page
 ![Reservation Page](./public/reservation-resort.png)
